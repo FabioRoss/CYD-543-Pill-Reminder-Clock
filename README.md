@@ -1,4 +1,4 @@
-# CYD-543-pill-reminder-clock
+# CYD_543 Pill Reminder Clock
 A LVGL Pill Reminder Clock for Guition JC4827W543 aka CYD-543
 
 ![](/images/reminder.jpg)
